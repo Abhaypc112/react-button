@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  height: 98vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.App button{
+  padding: 6px;
+  border-radius: 5px;
+  border-style: none;
+  box-shadow: 0px 0px;
+}
